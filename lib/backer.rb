@@ -11,4 +11,7 @@ class Backer
     @name
   end
 
+  def backed_potatoes
+    @backed_potatoes
+  end
 end
