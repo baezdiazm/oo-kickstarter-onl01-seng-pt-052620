@@ -7,4 +7,8 @@ class Backer
     @title = title
   end
 
+  def name
+    @name
+  end
+
 end
