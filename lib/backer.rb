@@ -3,6 +3,7 @@ class Backer
 
   def initialize(name)
     @name = name
+    @baked_potatoes = []
   end
 
 end
